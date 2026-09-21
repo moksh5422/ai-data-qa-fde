@@ -1,0 +1,7 @@
+customer_id,customer_name,region,segment
+C001,Alpha Ltd,South,Enterprise
+C002,Beta Inc,West,SMB
+C003,Gamma Co,South,SMB
+C004,Delta Ltd,North,Enterprise
+C005,Epsilon Inc,West,SMB
+C006,Zeta Corp,North,Enterprise
